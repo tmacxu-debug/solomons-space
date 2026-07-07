@@ -1,0 +1,10 @@
+.agents/
+.git/
+.gh/
+.codex/
+node_modules/
+.npm-cache/
+.gitdata/
+dist/
+.DS_Store
+*.local
